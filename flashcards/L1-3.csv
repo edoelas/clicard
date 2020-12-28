@@ -1,0 +1,88 @@
+Hanzi,Pinyin,Significado,right_./configs/test1.json,wrong_./configs/test1.json
+爸爸,bàba,Padre,0,0
+白,bái,blanco,0,0
+不,bù,particula negacion,0,0
+吃,chī,comer,0,0
+蛋糕,dàn gāo,pastel (arroz),0,0
+的,de,particula posesiva,0,0
+弟弟,dì di,Hermano pequeño,0,0
+都,dōu,todos/ambos,0,0
+饭,fàn,arroz,0,0
+哥哥,gē ge,Hermano mayor,0,0
+海,hǎi,mar,0,0
+好,hǎo,Bien,1,0
+好朋友,hǎo peng you,Mejores amigos,1,0
+河,hé,rio,0,0
+喝,hē,beber,0,0
+黑,hēi,negro,0,0
+很,hěn,muy,0,0
+湖,hú,lago,1,0
+黄,huáng,amarillo,1,0
+叫,jiào,Llamarse,1,0
+咖啡,kā fēi,café,0,1
+渴,kě,tener sed,0,1
+可乐,kě lè,coca-cola,0,0
+蓝,lán,azul,0,0
+吗,ma,Particula pregunta,1,0
+马,mǎ,caballo,0,0
+妈妈,māmā,Madre,0,0
+忙,máng,ocupado,1,0
+们,men,Particula plural,0,0
+面,miàn,fideos,0,0
+面包,miàn bāo,bolleria (harina),1,0
+男,nán,Hombre,0,0
+男朋友,nán péng you,Novio,1,0
+呢,ne,particula elíptica,0,0
+你,nǐ,Tú,1,0
+你好,nǐ hǎo,Hola,0,0
+牛奶,niú nǎi,leche,0,0
+女,nǚ,Mujer,0,0
+女朋友,nǚ peng you,Novia,1,0
+朋友,péng you,Amigos,1,0
+是,shì,Ser,0,0
+他,tā,Él,1,0
+她,tā,Ella,0,0
+它,tā,Ello,0,0
+亡,wáng,morir,0,0
+我,wǒ,Yo,0,0
+要,yào,querer (algo),1,0
+也,yě,tambien,1,0
+一,yī,1,1,0
+二,èr,2,0,0
+三,sān,3,1,0
+四,sì,4,0,0
+五,wǔ,5,0,1
+六,lìu,6,0,0
+七,qī,7,2,0
+八,bā,8,0,0
+九,jiǔ,9,1,0
+十,shí,10,1,0
+零,líng,0,0,0
+百,bǎi,100,1,0
+千,qiān,1000,0,0
+中,zhōng,dentro,0,0
+国,guó,indica pais,0,0
+人,rén,indica gentilicio,0,0
+法国人,fǎ guó rén,frances,0,0
+西班牙人,xī bān yá rén,español,0,0
+哪,nǎ,de donde?,0,0
+那,nà,aquel,0,0
+这,zhè,este,0,0
+谁,shéi,de quien?,0,0
+老师,lǎo shī,profesor,1,0
+学生,xué sheng,alumno,1,1
+医生,yī sheng,medico,1,0
+语言,yǔ yán,idioma,0,0
+言,yán,rel. lenguaje,0,0
+语,yǔ,indica idioma,0,0
+外,wài,extranjero,0,0
+外语,wài yǔ,idioma extranjero,1,0
+外婆,wài pó,abuela materna,0,0
+外公,wài gōng,abuelo materno,0,0
+爷爷,yé ye,abuelo paterno,0,0
+奶奶,nǎi nai,abuela materna,0,0
+您,nín,usted,0,0
+中国,zhōng guó,china,0,0
+中文,zhōng wén,lengua china,0,0
+汉语,hàn yǔ,lengua china,0,0
+英国,yīng guó,Reino unido,1,0
